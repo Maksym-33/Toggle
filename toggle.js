@@ -24,10 +24,5 @@ function toggleColourClicked(){
 }
 
 toggleColourButton.addEventListener('Click',toggleFontClicked);
-
 function toggleFontClicked(){
 
-    let buttonFont = toggleFontButton.textContent;
-
-    if (buttonText
-}
